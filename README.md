@@ -22,7 +22,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=termux)
-![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat-square&logo=tmux)
 
 ---
 
