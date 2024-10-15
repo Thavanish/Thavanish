@@ -1,36 +1,73 @@
-# Thavanish
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Hello, I'm Thavanish
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thavanish&color=blue&style=flat-square) 
-[![GitHub followers](https://img.shields.io/github/followers/Thavanish?label=Follow&style=social)](https://github.com/Thavanish)
-[![Email Badge](https://img.shields.io/badge/Email-thegreenflame1507@gmail.com-blue?style=flat-square&logo=gmail)](mailto:thegreenflame1507@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thavanish&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thavanish?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Email-thegreenflame1507@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+</p>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thavanish&show_icons=true&theme=radical" alt="Thavanish's GitHub stats" />
+</div>
 
-### SkyPort Panel Installer
-Custom Bash installer for SkyPort Panel with Dockerization
+---
 
-### Minecraft Launcher (Prism)
-Custom Minecraft launcher built for modding
+<h2>📚 Featured Projects</h2>
 
-### Circle Calculator
-Bash script for calculating complex circle measurements
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/docker.png" width="30px"/>
+      <br />
+      <b>SkyPort Panel Installer</b>
+      <br />
+      Custom Bash installer with Dockerization
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/minecraft.png" width="30px"/>
+      <br />
+      <b>Minecraft Launcher (Prism)</b>
+      <br />
+      Custom launcher for modding
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/calculate.png" width="30px"/>
+      <br />
+      <b>Circle Calculator</b>
+      <br />
+      Bash script for circle measurements
+    </td>
+  </tr>
+</table>
 
-## 🛠 Tech Stack
+---
 
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=termux)
+<h2>🛠️ Tech Stack</h2>
 
-## 🌱 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash" alt="Bash" />
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Termux-black?style=for-the-badge&logo=termux" alt="Termux" />
+</p>
 
-- Docker Automation
-- Minecraft Modding with Fabric
-- Advanced Bash Scripting
+---
 
-## 📂 My Repositories
+<h2>🌱 Currently Exploring</h2>
+
+<ul>
+  <li>🐳 Docker Automation</li>
+  <li>🎮 Minecraft Modding with Fabric</li>
+  <li>💻 Advanced Bash Scripting</li>
+</ul>
+
+---
+
+<h2>📂 My Repositories</h2>
 
 <details>
 <summary>Click to expand</summary>
@@ -40,12 +77,24 @@ Bash script for calculating complex circle measurements
 
 </details>
 
-## 🌐 Let's Connect
+---
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-@Thavanish-181717?style=flat-square&logo=github)](https://github.com/Thavanish)
-[![Email Badge](https://img.shields.io/badge/Email-thegreenflame1507@gmail.com-blue?style=flat-square&logo=gmail)](mailto:thegreenflame1507@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+<h2>🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/Thavanish">
+    <img src="https://img.shields.io/badge/GitHub-@Thavanish-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:thegreenflame1507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thegreenflame1507@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-> "Stay curious, keep learning, and build cool stuff!" 🔥
+<p align="center">
+  <i>"Stay curious, keep learning, and build cool stuff!" 🔥</i>
+</p>
