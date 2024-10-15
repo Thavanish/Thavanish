@@ -66,17 +66,15 @@
 </ul>
 
 ---
-
 <h2>📂 My Repositories</h2>
 
 <details>
 <summary>Click to expand</summary>
 
-<!-- REPO_MENU_START -->
-<!-- REPO_MENU_END -->
+<!-- REPO_LIST_START -->
+<!-- REPO_LIST_END -->
 
 </details>
-
 ---
 
 <h2>🌐 Let's Connect</h2>
