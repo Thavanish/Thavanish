@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thavanish&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=THAVANISH&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <h1 align="center">
@@ -39,13 +39,6 @@
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/48/000000/minecraft.png" width="50px"/>
-        <br />
-        <b>Minecraft Launcher (Prism)</b>
-        <br />
-        Custom launcher for modding
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/calculate.png" width="50px"/>
         <br />
         <b>Circle Calculator</b>
         <br />
