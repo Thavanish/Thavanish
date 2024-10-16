@@ -23,9 +23,7 @@
 - 🐧 Linux and open-source software advocate
 
 ---
-
-## 📚 Featured Projects
-
+📚 Featured Projects
 <div align="center">
   <a href="https://github.com/Thavanish/SkyPort-Panel-Installer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thavanish&repo=SkyPort-Panel-Installer&theme=radical" />
@@ -34,7 +32,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thavanish&repo=Circle-Calculator&theme=radical" />
   </a>
 </div>
-
 ---
 
 ## 🛠️ Technologies I'm Learning
