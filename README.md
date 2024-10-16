@@ -48,12 +48,36 @@
 
 ## 🌱 What I'm Currently Exploring
 
-- 🐳 Docker basics and container technology
-- 🎮 Creating my first Minecraft mod
-- 🐧 Advanced Bash scripting techniques
-- 🖥️ Setting up and managing a Raspberry Pi server
+<div align="center">
+  <style>
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    .bouncing-emoji {
+      display: inline-block;
+      animation: bounce 2s infinite;
+    }
+    .bouncing-emoji:nth-child(2) { animation-delay: 0.5s; }
+    .bouncing-emoji:nth-child(3) { animation-delay: 1s; }
+    .bouncing-emoji:nth-child(4) { animation-delay: 1.5s; }
+  </style>
 
----
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <span class="bouncing-emoji">🐳</span> Docker basics and container technology
+    </li>
+    <li>
+      <span class="bouncing-emoji">🎮</span> Creating my first Minecraft mod
+    </li>
+    <li>
+      <span class="bouncing-emoji">🐧</span> Advanced Bash scripting techniques
+    </li>
+    <li>
+      <span class="bouncing-emoji">🖥️</span> Setting up and managing a Raspberry Pi server
+    </li>
+  </ul>
+</div>
 
 ## 📊 My GitHub Stats
 
