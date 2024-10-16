@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi there! I'm Thavanish</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=15-year-old+Developer;Bash+Scripting+Enthusiast;Minecraft+Modder;Always+Learning!" alt="Typing SVG" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16690B&width=435&lines=BASH;RASBERRY+PI;SELF-TAUGHT;MANY+MORE+!)](https://git.io/typing-svg) />
 </div>
 
 <p align="center">
