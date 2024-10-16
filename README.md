@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thavanish&repo=SkyPort-Panel-Installer&theme=radical" />
   </a>
   <a href="https://github.com/Thavanish/Circle-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thavanish&repo=Circle-Calculator&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thavanish&repo=fabric-skyport-image&theme=radical" />
   </a>
 </div>
 ---
