@@ -1,7 +1,7 @@
-# <div align="center">👋 Hello, I'm Thavanish!</div>
+# <div align="center">👋 Hi there! I'm Thavanish</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Bash+Scripting+Enthusiast;Docker+Aficionado;Minecraft+Modder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=15-year-old+Developer;Bash+Scripting+Enthusiast;Minecraft+Modder;Always+Learning!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,9 +13,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thavanish&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thavanish&show_icons=true&theme=radical&hide_border=true" alt="Thavanish's GitHub stats" />
-</div>
+---
+
+## 🚀 About Me
+
+- 🎂 I'm a 15-year-old developer passionate about coding and technology
+- 💻 Self-taught programmer exploring various areas of software development
+- 🎮 Minecraft enthusiast and aspiring mod creator
+- 🐧 Linux and open-source software advocate
 
 ---
 
@@ -32,30 +37,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I'm Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/-Minecraft%20Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Modding" />
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 What I'm Currently Exploring
+
+- 🐳 Docker basics and container technology
+- 🎮 Creating my first Minecraft mod
+- 🐧 Advanced Bash scripting techniques
+- 🖥️ Setting up and managing a Raspberry Pi server
+
+---
+
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Docker%20Automation-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Automation" />
-  <img src="https://img.shields.io/badge/-Minecraft%20Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Modding" />
-  <img src="https://img.shields.io/badge/-Advanced%20Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Advanced Bash Scripting" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thavanish&show_icons=true&theme=radical&hide_border=true" alt="Thavanish's GitHub stats" />
 </div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavanish&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -72,9 +79,6 @@
   <a href="mailto:thegreenflame1507@gmail.com">
     <img src="https://img.shields.io/badge/Email-thegreenflame1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
 </div>
 
 ---
@@ -88,5 +92,5 @@
 </p>
 
 <p align="center">
-  <i>"Stay curious, keep learning, and build cool stuff!" 🚀</i>
+  <i>"Dream big, code bigger! 🚀"</i>
 </p>
